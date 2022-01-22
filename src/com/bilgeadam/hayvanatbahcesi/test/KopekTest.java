@@ -15,6 +15,7 @@ public class KopekTest {
         kopek1.setAgirlik(60);
         kopek1.setUzunluk(1.5);
         kopek1.setAd("Hasan");;
+        kopek1.setKuyrukUzunlugu(10);
 
         System.out.println(kopek1);
     }
